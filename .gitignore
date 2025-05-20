@@ -1,0 +1,20 @@
+# Virtuelt miljø
+.venv/
+venv/
+
+# PyCache og midlertidige filer
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+
+# Lydfiler og input/output
+input/
+output/
+
+# VS Code settings (valgfrit)
+.vscode/
+
+# OS-specifikke filer
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+faster-whisper
+resemblyzer
+numpy
+scipy
+moviepy
+pydub
+tqdm
