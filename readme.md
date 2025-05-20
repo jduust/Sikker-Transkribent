@@ -134,10 +134,3 @@ Dette projekt er open source – brug det, udvid det, del det med omtanke.
 ---
 
 **Udviklet med omhu i Danmark – for dig, der tager privatliv alvorligt.**
-
-```
-
----
-
-Vil du også have en færdig `requirements.txt`, `transcriber.py`, og en `.gitignore` til at pakke det hele sammen, så det er klar til GitHub?
-```
